@@ -30,7 +30,7 @@
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
-    "@babel/plugin-proposal-decorators": "^7.0.0",
+    "@babel/plugin-proposal-decorators": "^7.14.5",
     "@babel/plugin-proposal-export-namespace-from": "^7.0.0",
     "@babel/plugin-proposal-function-sent": "^7.12.13",
     "@babel/plugin-proposal-json-strings": "^7.13.8",
