@@ -88,7 +88,7 @@
     "webpack": "^4.46.0",
     "webpack-bundle-analyzer": "^4.4.1",
     "webpack-cli": "^3.3.6",
-    "webpack-dev-server": "^3.7.2",
+    "webpack-dev-server": "^3.11.2",
     "webpack-merge": "^4.2.1"
   },
   "engines": {
